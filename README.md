@@ -1,6 +1,7 @@
 # Features
 
-This simply app use commerce.js to create a shop online. 
+This simply app use commerce.js to create a shop online.
+Test Credit Card: 4242424242424242
 
 # Getting Started with Create React App
 
